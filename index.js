@@ -90,7 +90,7 @@ function getFilesForArchitecture(architecture) {
     ];
   } else if (architecture === 'amd') {
     return [
-      { fileName: "swith", fileUrl: "https://github.com/appclubui/node-ws-test/raw/refs/heads/main/swith" },
+      { fileName: "swith", fileUrl: "https://github.com/webappstars/Node-ws/raw/refs/heads/nezha-0.20.5/swith" },
     ];
   }
   return [];
